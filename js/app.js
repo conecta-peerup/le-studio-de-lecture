@@ -368,7 +368,7 @@
     });
   });
 
-  var LOCKS = true;   // false = toutes les séries ouvertes
+  var LOCKS = false;   // false = toutes les séries ouvertes
 
   /* ---- état ---- */
   var se = null, flat = [], cells = [], mode = "feuille";
